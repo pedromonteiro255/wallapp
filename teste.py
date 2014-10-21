@@ -1,4 +1,5 @@
 #!/usr/bin/env python
 
 print "Content-type: text/html\n\n"
-print "<html>Hello world!</html>"
+
+print "<html><h1>Hello world!</h1></html>"
